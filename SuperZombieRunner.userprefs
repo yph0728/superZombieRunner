@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Script/ObjectPool.cs" Line="1" Column="1" />
+      <File FileName="../Roll a Ball/Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/GameObjectUtil.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/RecycleGameObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/DestroyOffScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Obstacle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/InstantVelocity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
